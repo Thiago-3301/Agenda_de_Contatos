@@ -22,6 +22,8 @@ Importação automática dos contatos do arquivo database.csv ao iniciar o progr
 
 Exportação automática dos contatos para o database.csv após qualquer alteração.
 
+Se o arquivo database.csv não existir, ele será criado após adicionar um contato
+
 
 Validações:
 
