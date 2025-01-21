@@ -23,7 +23,7 @@ Importação automática dos contatos do arquivo database.csv ao iniciar o progr
 Exportação automática dos contatos para o database.csv após qualquer alteração.
 
 
-Validações
+Validações:
 
 E-mail: Verifica se contém @ e .
 
